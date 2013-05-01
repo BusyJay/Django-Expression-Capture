@@ -1,4 +1,6 @@
 *.log
 *.pot
 *.pyc
+.idea
+DjangoExpressionCapture.iml
 local_settings.py
